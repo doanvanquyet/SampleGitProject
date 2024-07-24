@@ -10,6 +10,9 @@ namespace SampleGitProject
     {
         static void Main(string[] args)
         {
+            int a = 1;
+            int b = a+1; 
+            int c = b+1;
         }
     }
 }
