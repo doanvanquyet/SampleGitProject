@@ -16,6 +16,8 @@ namespace SampleGitProject
 
             int d = c+1;
             int e = d+1;
+            int f = e+1;
+            int g = f+1;
         }
     }
 }
